@@ -46,7 +46,7 @@ include = ["mdonatello"]
 [tool.pytest.ini_options]
 minversion = "6.0"
 testpaths = [
-    "mdonatello/tests",
+    "mdonatello",
 ]
 
 [tool.black]
